@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/seesharpguy">
+    <img src="https://github.com/seesharpguy/seesharpguy/raw/master/.github/assets/banner.png" />
+  </a>
+</p>
+</br>
 
-<!--
-**seesharpguy/seesharpguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ryan Sites (seesharpguy)
 
-Here are some ideas to get you started:
+Seasoned Software Engineer  
+Perpetual Student  
+Loved languages & Frameworks:  
+- NodeJS 
+- C#
+- Python
+- Typescript/Javascript
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+
+- 🔭 I’m currently working on:  
+  - [JsonSchema-Editor](https://github.com/optum/jsonschema-editor-react)
+- 🌱 I’m currently learning:  
+  - SPARK/SCALA
+- 📫 How to reach me:  
+      email: ryan.r.sites@gmail.com
+- ⚡ Fun fact:
+  - I drink bourbon
+
