@@ -7,6 +7,7 @@
 
 # Ryan Sites (seesharpguy)
 
+Senior Principal Engineer @ Optum  
 Seasoned Software Engineer  
 Perpetual Student  
 Loved languages & Frameworks:  
