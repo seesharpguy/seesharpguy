@@ -20,10 +20,13 @@ Loved languages & Frameworks:
 </br>
 
 
-- 🔭 I’m currently working on:  
-  - [JsonSchema-Editor](https://github.com/optum/jsonschema-editor-react)
+- 🔭 I’m currently working on:
+  - [Optum Now](now.optum.com)
+  - [Zone2](https://github.com/optum/jsonschema-editor-react](https://github.com/threetenlabs/zone2)
 - 🌱 I’m currently learning:  
-  - SPARK/SCALA
+  - Vector Database(s), especially Vespa.ai
+  - Federated GraphQL
+  - Mixing the worlds of Generative AI and Graph Databases
 - 📫 How to reach me:  
       email: ryan.r.sites@gmail.com
 - ⚡ Fun fact:
