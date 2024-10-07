@@ -7,15 +7,18 @@
 
 # Ryan Sites (seesharpguy)
 
-Senior Principal Engineer @ Optum  
+Principal Engineer
 Seasoned Software Engineer  
 Perpetual Student  
 Loved languages & Frameworks:  
 - NodeJS 
-- C#
 - Python
 - Typescript/Javascript
-- React
+- React (NextJs)
+- Building CLIs
+- Developer Ergonomics
+- Infrastructure as Code
+- Everything as Code
 
 </br>
 
