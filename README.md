@@ -7,8 +7,7 @@
 
 # Ryan Sites (seesharpguy)
 
-Principal Engineer
-Seasoned Software Engineer  
+Distinguished Engineer  
 Perpetual Student  
 Loved languages & Frameworks:  
 - NodeJS 
