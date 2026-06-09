@@ -27,6 +27,7 @@ Loved languages & Frameworks:
   - [Optum Now](now.optum.com)
   - [Sticker By AI](https://stickersby.ai/) - Prompts to Products in Minutes
   - [Wundra](https://wundra.app/) - AI Travel Companion & Planner
+  - [Pawn](https://github.com/i75corridor/pawn) Open Source Agentic Harness
   - [Zone2](https://github.com/optum/jsonschema-editor-react](https://github.com/threetenlabs/zone2) Open Source
 - 🌱 I’m currently learning:
   - AI Harness creation
